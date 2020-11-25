@@ -9,4 +9,12 @@ This project is divided into 3 parts.
 This part starts bt loading my listening data over the past year and performing some exploaratory data analysis in order to get a feel of my listening habbits and learn some insights into my music taste e.g.
 
 **Who are my Top 50 Streamed Artists**
-![Top 10 Played Songs](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/top50artists.png)
+![Top 50 Artists](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/top50artists.png)
+
+
+**Do I listen to more music on weekends vs weekdays?**
+![Music by Day of Week](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/hoursplayedbydayofweek.png)
+
+
+
+
