@@ -23,5 +23,22 @@ This part starts bt loading my listening data over the past year and performing 
 
 
 
+## Part 2. Access Spotify API 
+
+The streaming data used in the data exploration doesn't include addtitional attributes about the tracks e.g. tempo, loudness etc. This is because spotify expects us to request these features. Thus, to get this information we are going to need to access the spotify API. Part two tackles this.
+
+## Part 3. Implement K-Means Cluster
+The aim of this project is to use K-Means clustering to organise my favourite songs and cluster them into playlists of simialr songs. To determine the optimal number of clusters to use, the elbow method is employed. K=4 was chosen as the number of clusters to go for.
+
+
+![Elbow Method](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/elbow_method.png)
+
+
+
+
+
+
+
+
 
 
