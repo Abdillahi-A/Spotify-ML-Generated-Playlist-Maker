@@ -39,6 +39,15 @@ The aim of this project is to use K-Means clustering to organise my favourite so
 ![PCA](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/pca.png)
 
 
+## Part 4. Turn Clusters into Spotify Playlists¶
+This part of the project converts the clusters into actual playlists you can listen to here:
+
+1. https://open.spotify.com/playlist/3yqWnqqJDuoAjk958MonNd?si=yA9Cvo72TIWFZUhTtUisUw
+2. https://open.spotify.com/playlist/2zWLRuc8S54vWSLVQMTxwt?si=HdtLttj0QYOWZyyFTyNlAA
+3. https://open.spotify.com/playlist/3CR7D3pBPrIeEcvRS0RGi2?si=0Y3Vpp8-TX2Eqe3LDebrRw
+4. https://open.spotify.com/playlist/0CHQKJMJIz9WK7RcXJKw8h?si=k_ECFVskS6WkAsdJDJOGUA
+
+
 
 
 
