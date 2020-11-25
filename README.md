@@ -30,8 +30,10 @@ The streaming data used in the data exploration doesn't include addtitional attr
 ## Part 3. Implement K-Means Cluster and Principal Component Analysis (PCA)
 The aim of this project is to use K-Means clustering to organise my favourite songs and cluster them into playlists of simialr songs. To determine the optimal number of clusters to use, the elbow method is employed. K=4 was chosen as the number of clusters to go for. PCA was used to reduce the dimension of our data from a high dimensional space, to a lower 2d space, where we can visualise relationships between clusters.
 
-
+**Elbow Method**
 ![Elbow Method](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/elbow_method.png)
+
+**PCA**
 ![PCA](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/pca.png)
 
 
