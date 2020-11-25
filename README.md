@@ -15,6 +15,10 @@ This part starts bt loading my listening data over the past year and performing 
 **Do I listen to more music on weekends vs weekdays?**
 ![Music by Day of Week](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/hoursplayedbydayofweek.png)
 
+**What months do I listen to the most music?**
+![Music by Month](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/musicbymonth.png)
+
+
 
 
 
