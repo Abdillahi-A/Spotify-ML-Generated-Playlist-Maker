@@ -8,7 +8,7 @@ This project is divided into 3 parts.
 ## Part 1: Data Exploration
 This part starts bt loading my listening data over the past year and performing some exploaratory data analysis in order to get a feel of my listening habbits and learn some insights into my music taste e.g.
 
-**Who are my Top 50 Streamed Artists**
+**Who are my Top 50 Streamed Artists?**
 ![Top 50 Artists](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/top50artists.png)
 
 
@@ -39,13 +39,21 @@ The aim of this project is to use K-Means clustering to organise my favourite so
 ![PCA](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/pca.png)
 
 
-## Part 4. Turn Clusters into Spotify Playlists¶
-This part of the project converts the clusters into actual playlists you can listen to here:
+## Results:
 
-1. https://open.spotify.com/playlist/3yqWnqqJDuoAjk958MonNd?si=yA9Cvo72TIWFZUhTtUisUw
-2. https://open.spotify.com/playlist/2zWLRuc8S54vWSLVQMTxwt?si=HdtLttj0QYOWZyyFTyNlAA
-3. https://open.spotify.com/playlist/3CR7D3pBPrIeEcvRS0RGi2?si=0Y3Vpp8-TX2Eqe3LDebrRw
-4. https://open.spotify.com/playlist/0CHQKJMJIz9WK7RcXJKw8h?si=k_ECFVskS6WkAsdJDJOGUA
+1. cluster 0 - more chill, mellow vibes (mostly hip hop and RnB and some slow indie). See full playlist here: https://open.spotify.com/playlist/3yqWnqqJDuoAjk958MonNd?si=yA9Cvo72TIWFZUhTtUisUw
+
+2. cluster 1  - more upbeat songs to dance or workout to. See full playlist here:
+https://open.spotify.com/playlist/2zWLRuc8S54vWSLVQMTxwt?si=HdtLttj0QYOWZyyFTyNlAA
+
+3. cluster 2 - very high energy electronic/house/techno songs. See full playlist here:
+https://open.spotify.com/playlist/3CR7D3pBPrIeEcvRS0RGi2?si=0Y3Vpp8-TX2Eqe3LDebrRw
+
+
+4. cluster 3 - most distinct group, mainly categorised by pianos, inspirational movie scores, string orchestra, and a more melancholy vibe. These are songs I’d likely study to. See full playlist here:
+https://open.spotify.com/playlist/0CHQKJMJIz9WK7RcXJKw8h?si=k_ECFVskS6WkAsdJDJOGUA
+
+
 
 
 
