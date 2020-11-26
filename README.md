@@ -41,7 +41,8 @@ The aim of this project is to use K-Means clustering to organise my favourite so
 
 ## Results:
 
-1. cluster 0 - more chill, mellow vibes (mostly hip hop and RnB and some slow indie). See full playlist here: https://open.spotify.com/playlist/3yqWnqqJDuoAjk958MonNd?si=yA9Cvo72TIWFZUhTtUisUw
+1. cluster 0 - more chill, mellow vibes (mostly hip hop and RnB and some slow indie).
+See full playlist here: https://open.spotify.com/playlist/3yqWnqqJDuoAjk958MonNd?si=yA9Cvo72TIWFZUhTtUisUw
 
 2. cluster 1  - more upbeat songs to dance or workout to. See full playlist here:
 https://open.spotify.com/playlist/2zWLRuc8S54vWSLVQMTxwt?si=HdtLttj0QYOWZyyFTyNlAA
