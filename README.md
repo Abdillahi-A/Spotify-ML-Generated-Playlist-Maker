@@ -6,7 +6,7 @@ This project uses unsupervised learning learning (K-means Clustering) to organis
 This project is divided into 3 parts.
 
 ## Part 1: Data Exploration
-This part starts bt loading my listening data over the past year and performing some exploaratory data analysis in order to get a feel of my listening habbits and learn some insights into my music taste e.g.
+This part starts by loading my listening data over the past year and performing some exploaratory data analysis in order to get a feel of my listening habbits and learn some insights into my music taste e.g.
 
 **Who are my Top 50 Streamed Artists?**
 ![Top 50 Artists](https://github.com/Abdillahi-A/Spotify-ML-Generated-Playlist-Maker/blob/main/top50artists.png)
